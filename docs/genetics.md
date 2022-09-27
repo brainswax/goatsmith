@@ -1,3 +1,7 @@
+---
+layout: page
+title: Genetics
+---
 # DRAFT
 
 # Goat Pattern Genetics

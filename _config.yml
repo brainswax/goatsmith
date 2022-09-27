@@ -1,0 +1,6 @@
+theme: jekyll-theme-slate
+markdown: GFM
+title: Goat Smithing
+locale: en_US
+owner:
+  name: brainswax
