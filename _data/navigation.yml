@@ -1,0 +1,8 @@
+- title: Home
+  url: /
+- title: Genetics
+  url: /genetics/
+- title: Breeding
+  url: /breeding/
+- title: Kidding
+  url: /kidding/

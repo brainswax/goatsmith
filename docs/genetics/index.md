@@ -3,4 +3,4 @@ layout: page
 title: Genetics
 ---
 
-# Genetics
+# Genetics Index
