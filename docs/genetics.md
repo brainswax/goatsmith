@@ -18,22 +18,30 @@ title: Genetics
 1. The light color can range from white, cream, gold, tan to red (i.e. a gold pattern goat could be colored white)
 1. Mutations can, although very rarely, cause patterns that neither parent carry
 
+## Base Colors
+There are two types of pigments determining color. All colors are some variation of one of these pigments or white in the absence of pigment:
+
+1. Eumelanin - black
+1. Pheomelanin - red
+
 ## Base Patterns
 
-The pattern is determined by the Agouti locus referred to by the 'A' symbol. Each of the animals two agouti loci can be one of the following (there are possibly more, but these are the ones in existing breeding goats):
+The pattern is determined by the Agouti locus, referred to by the 'A' symbol, which determines the distribution of dark and light areas on the animal. Each animal will inherit one of the following alleles from each parent (there are more, but these are the most common in Nigerian Dwarf):
 
 | Pattern                 | Allele | Dominance      |
 | ---                     | ---    | ---            |
-| Gold (White)            | Awt    | Most Dominant  |
-| Buckskin (San Clemente) | Asc    | Dominant       |
-| Chamoisee (Black Belly) | Ab     | Dominant       |
-| Swiss Marked            | Asm    | Dominant       |
-| Cou Clair (Peacock)     | Apk    | Dominant       |
-| Sundgau (Black & Tan)   | At     | Dominant       |
-| Bezoar                  | A+     | Dominant (wild type) |
-| Caramel                 | Acr    | Dominant       |
-| Red Cheek               | Arc    | Dominant       |
+| Gold (White)            | Awt    | Dominant       |
+| Buckskin (San Clemente) | Asc    | Codominant     |
+| Chamoisee (Black Belly) | Ab     | Codominant     |
+| Swiss Marked            | Asm    | Codominant     |
+| Cou Clair (Peacock)     | Apk    | Codominant     |
+| Sundgau (Black & Tan)   | At     | Codominant     |
+| Bezoar                  | A+     | Codominant (wild type) |
+| Caramel                 | Acr    | Codominant     |
+| Red Cheek               | Arc    | Codominant     |
 | Black                   | a (or Aa) | Recessive   |
+
+The light areas are believed to be polygenic.
 
 ## Modifiers
 
@@ -41,7 +49,7 @@ Patterns and colors can inherit independent modifiers from each parent:
 
 | Locus | Name      | Color/Pattern | Dominance                                | Effect |
 | ---   | ---       | ---           | ---                                      | ---    |
-| B     | Brown     | Chocolate     | Bl (black) > B+ (wild type) > br (brown) | Produces brown pigment in black areas. |
+| B     | Brown     | Chocolate     | Bd (dark brown) > Bl (light brown) > B+ (wild type, neutral) > br (brown) | Produces brown pigment in black areas. |
 | C     | Chincilla | Albino        | ?                                        | Unknown. May be responsible for color dilution. |
 | D     | Dilution  | Muted         | D (not diluted) > d (diluted)            | Recessive dd turns black to grey/blue in mammals |
 | E     | Extension | Red           | Ed (black) > E+ (wild type, neutral) > er (red)   | Dominant black or turns black to red or yellow. Most are neutral wild type. |
@@ -53,17 +61,31 @@ Patterns and colors can inherit independent modifiers from each parent:
 * Polled (dominant)
 * Moon spots (incomplete dominant)
 * Roaning (dominant) - it's believed to be a partial dominant trait, but locus is unknown
-* Black dominant (Ed) will override even gold (this is only known in Angora's)
 
 # Terminology
 
-- _Allele_ - a particular variation of a gene
-- _Dominant_ - a genetic trait is considered dominant if it is expressed in an animal that only has one copy of that gene
-- _Express_ - when a genetic trait produces something visible on the animal
+- _Allele_ - a variation of a gene
+- _Codominant_ - when two dominant alleles can express together
+- _Diploid_ - an animal that has two copies of each chromosome; one from the mother and one from the father
+- _Dominant_ - an allele is considered dominant if it can be expressed in an animal that only has one copy of the allele
+- _Epistatic_ - a gene that changes the expression of another (hypostatic) gene at a different locus
+- _Express_ - when a trait is visible on the animal
+- _Gene_ - a sequence of one or more nucleotides in a DNA molecule that makes up a basic unity of heredity
+- _Genotype_ - the type, or allele, for a gene
+- _Heterozygous_ - when the alleles in a pair of genes are different
+- _Homozygous_ - when the alleles in a pair of genes are the same
+- _Hypostatic_ - a gene that expresses a different phenotype depending on another (epistatic) gene
+- _Incomplete Dominance_ - or partial dominance, when a dominant allele doesn't completely mask a recessive allele and creates a blended phenotype
+- _Linkage_ - when two genes are near each other and tend to inherit together
 - _Locus_ - the location of a gene
 - _Loci_ - plural of locus
-- _Recessive_ - a genetic trait is considered recessive if it requires both genes in order to express the trait
-- _Wild Type_ - a wild type alelle is considered the normal or non-mutated variation of a gene
+- _Mendelian Inheritance_ - usually refers to single-gene, single-trait inheritance
+- _Phenotype_ - a visible trait
+- _Pleiotropic_ - when a gene affects multiple phenotypes
+- _Polygenic_ - when multiple non-epistatic genes interact to produce a phenotype
+- _Recessive_ - an allele is considered recessive if it can only be expressed when both alleles in a gene are the same
+- _Recessive_ - an allele is recessive if the gene must be homozygous in order to express the trait
+- _Wild Type_ - a wild type allele is considered the non-mutated variation of a gene
 
 # Sources
 
