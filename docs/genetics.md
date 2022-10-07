@@ -39,19 +39,19 @@ The pattern is determined by the Agouti locus referred to by the 'A' symbol. Eac
 
 Patterns and colors can inherit independent modifiers from each parent:
 
-| Locus | Name      | Color/Pattern | Dominance | Effect |
-| ---   | ---       | ---           | ---       | ---    |
-| B     | Brown     | Chocolate     | B (black) > B+ (wild type) > b (brown) | Produces brown pigment in black areas. |
-| C     | Chincilla | Albino        | ?                                      | Unknown in goats. May be responsible for color dilution. |
-| D     | Dilution  | Muted         | D (not diluted) > d (diluted)          | Recessive dd turns black to grey/blue in mammals |
-| E     | Extension | Red           | E (black) > E+ (wild type) > e (red)   | Turns black to red or yellow. 99.9% are E+E+. |
-| S     | Spotted   | Spotted       | S (spotted) > s (not spotted)          | Produces random white spots. Can cover entire body. |
+| Locus | Name      | Color/Pattern | Dominance                                | Effect |
+| ---   | ---       | ---           | ---                                      | ---    |
+| B     | Brown     | Chocolate     | Bl (black) > B+ (wild type) > br (brown) | Produces brown pigment in black areas. |
+| C     | Chincilla | Albino        | ?                                        | Unknown. May be responsible for color dilution. |
+| D     | Dilution  | Muted         | D (not diluted) > d (diluted)            | Recessive dd turns black to grey/blue in mammals |
+| E     | Extension | Red           | Ed (black) > E+ (wild type, neutral) > er (red)   | Dominant black or turns black to red or yellow. Most are neutral wild type. |
+| S     | Spotted   | Spotted       | S (spotted) > s (not spotted)            | Produces random white spots. Can cover entire body. |
 
 ## Additional Modifiers
 
 * Blue eyes (dominant)
 * Polled (dominant)
-* Moon spots (dominant)
+* Moon spots (incomplete dominant)
 * Roaning (dominant) - it's believed to be a partial dominant trait, but locus is unknown
 * Black dominant (Ed) will override even gold (this is only known in Angora's)
 
