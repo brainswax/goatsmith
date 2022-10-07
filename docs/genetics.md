@@ -22,30 +22,30 @@ title: Genetics
 
 The pattern is determined by the Agouti locus referred to by the 'A' symbol. Each of the animals two agouti loci can be one of the following (there are possibly more, but these are the ones in existing breeding goats):
 
-| Pattern      | Symbol | Dominance      |
-| ---          | ---    | ---            |
-| Gold         | A wt   | Most Dominant  |
-| Buckskin     | A sc   | Dominant       |
-| Chamoisee    | A b    | Dominant       |
-| Swiss Marked | A sm   | Dominant       |
-| Cou Clair    | A pk   | Dominant       |
-| Sundgau      | A t    | Dominant       |
-| Bezoar       | A*     | Dominant (wild type) |
-| Caramel      | A?     | Dominant       |
-| Red Cheek    | A rc   | Dominant       |
-| Black        | A a    | Recessive      |
+| Pattern                 | Allele | Dominance      |
+| ---                     | ---    | ---            |
+| Gold (White)            | Awt    | Most Dominant  |
+| Buckskin (San Clemente) | Asc    | Dominant       |
+| Chamoisee (Black Belly) | Ab     | Dominant       |
+| Swiss Marked            | Asm    | Dominant       |
+| Cou Clair (Peacock)     | Apk    | Dominant       |
+| Sundgau (Black & Tan)   | At     | Dominant       |
+| Bezoar                  | A+     | Dominant (wild type) |
+| Caramel                 | Acr    | Dominant       |
+| Red Cheek               | Arc    | Dominant       |
+| Black                   | a (or Aa) | Recessive   |
 
 ## Modifiers
 
 Patterns and colors can inherit independent modifiers from each parent:
 
-| Color/Pattern | Name      | Locus  | Dominance | Effect |
-| ---           | ---       | ---    | ---       | ---    |
-| Chocolate     | Brown     | B      | B (dominant light/dark brown) > B* (wild type) > b (recessive brown) | Produces brown pigment in black areas. |
-| Albino        | Chincilla | C      | ?         | Unknown in goats. May be resonsible for color dilution. |
-| Muted         | Dilution  | D      | ?         | Uncertain in goats. Turns black to grey/blue and tan to cream in mammals |
-| Red           | Extension | E      | E (black dominant) > E* (wild type) > e (recessive red)       | Turns black to red or yellow. 99.9% are E*E*. |
-| Spotted       | Spotting  | S      | Dominant  | Produces random white spots. Can cover entire body. |
+| Locus | Name      | Color/Pattern | Dominance | Effect |
+| ---   | ---       | ---           | ---       | ---    |
+| B     | Brown     | Chocolate     | B (black) > B+ (wild type) > b (brown) | Produces brown pigment in black areas. |
+| C     | Chincilla | Albino        | ?                                      | Unknown in goats. May be responsible for color dilution. |
+| D     | Dilution  | Muted         | D (not diluted) > d (diluted)          | Recessive dd turns black to grey/blue in mammals |
+| E     | Extension | Red           | E (black) > E+ (wild type) > e (red)   | Turns black to red or yellow. 99.9% are E+E+. |
+| S     | Spotted   | Spotted       | S (spotted) > s (not spotted)          | Produces random white spots. Can cover entire body. |
 
 ## Additional Modifiers
 
