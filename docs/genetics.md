@@ -24,26 +24,27 @@ The pattern is determined by the Agouti locus referred to by the 'A' symbol. Eac
 
 | Pattern      | Symbol | Dominance      |
 | ---          | ---    | ---            |
-| Gold         | A wt   | Super Dominant |
+| Gold         | A wt   | Most Dominant  |
 | Buckskin     | A sc   | Dominant       |
 | Chamoisee    | A b    | Dominant       |
 | Swiss Marked | A sm   | Dominant       |
 | Cou Clair    | A pk   | Dominant       |
 | Sundgau      | A t    | Dominant       |
-| Bezoar       | A +    | Wild Type      |
+| Bezoar       | A*     | Dominant (wild type) |
 | Caramel      | A?     | Dominant       |
 | Red Cheek    | A rc   | Dominant       |
 | Black        | A a    | Recessive      |
 
 ## Modifiers
 
-Patterns and colors can inherit independent locus modifiers from each parent:
-| Color/Pattern | Locus     | Symbol | Dominance | Effect |
+Patterns and colors can inherit independent modifiers from each parent:
+
+| Color/Pattern | Name      | Locus  | Dominance | Effect |
 | ---           | ---       | ---    | ---       | ---    |
-| Chocolate     | Brown     | B      | Bd (dominant light/dark brown) > B+ (wild type) > Br (recessive brown) | Produces brown pigment in black areas. |
+| Chocolate     | Brown     | B      | B (dominant light/dark brown) > B* (wild type) > b (recessive brown) | Produces brown pigment in black areas. |
 | Albino        | Chincilla | C      | ?         | Unknown in goats. May be resonsible for color dilution. |
 | Muted         | Dilution  | D      | ?         | Uncertain in goats. Turns black to grey/blue and tan to cream in mammals |
-| Red           | Extension | E      | Ed (black dominant) > E+ (wild type) > Er (recessive red)       | Turns black to red or yellow. 99.9% are E+E+. |
+| Red           | Extension | E      | E (black dominant) > E* (wild type) > e (recessive red)       | Turns black to red or yellow. 99.9% are E*E*. |
 | Spotted       | Spotting  | S      | Dominant  | Produces random white spots. Can cover entire body. |
 
 ## Additional Modifiers
@@ -62,7 +63,6 @@ Patterns and colors can inherit independent locus modifiers from each parent:
 - _Locus_ - the location of a gene
 - _Loci_ - plural of locus
 - _Recessive_ - a genetic trait is considered recessive if it requires both genes in order to express the trait
-- _Super Dominant_ - (my term, not a technical term) a genetic trait is considered super dominant if it's a dominant trait that masks other dominant traits (e.g. gold pattern)
 - _Wild Type_ - a wild type alelle is considered the normal or non-mutated variation of a gene
 
 # Sources
