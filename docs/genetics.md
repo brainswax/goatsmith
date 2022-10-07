@@ -13,20 +13,20 @@ title: Genetics
    - Both parents must carry black to produce a black kid
    - If the animal carries only one black pattern, then only the other pattern will be expressed
 1. Light areas are dominant over dark areas
-   - Patterns will only show dark where both inheritted patterns are dark
+   - Patterns will only show dark where both inherited patterns are dark
    - If the animal carries the gold pattern, then only gold will be expressed
 1. The light color can range from white, cream, gold, tan to red (i.e. a gold pattern goat could be colored white)
 1. Mutations can, although very rarely, cause patterns that neither parent carry
 
 ## Base Colors
-There are two types of pigments determining color. All colors are some variation of one of these pigments or white in the absence of pigment:
+There are two types of pigments determining color. All colors are some variation of one of these pigments (or white in the absence of pigment):
 
 1. Eumelanin - black
 1. Pheomelanin - red
 
 ## Base Patterns
 
-The pattern is determined by the Agouti locus, referred to by the 'A' symbol, which determines the distribution of dark and light areas on the animal. Each animal will inherit one of the following alleles from each parent (there are more, but these are the most common in Nigerian Dwarf):
+The pattern is determined by the Agouti locus, referred to by the 'A' symbol, which determines the distribution of dark (eumelanin) and light (pheomelanin) areas on the animal. Each animal will inherit one of the following alleles from each parent (there are more, but these are the most common in Nigerian Dwarf):
 
 | Pattern                 | Allele | Dominance      |
 | ---                     | ---    | ---            |
@@ -41,7 +41,7 @@ The pattern is determined by the Agouti locus, referred to by the 'A' symbol, wh
 | Red Cheek               | Arc    | Codominant     |
 | Black                   | a (or Aa) | Recessive   |
 
-The light areas are believed to be polygenic.
+The light areas are believed to be polygenic and are dominant over black areas.
 
 ## Modifiers
 
