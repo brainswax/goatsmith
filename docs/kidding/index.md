@@ -3,4 +3,4 @@ layout: page
 title: Kidding
 ---
 
-* [Kidding Schedule](kidding/KiddingSchedule.md)
+* [Kidding Schedule](kidding/KiddingSchedule.html)
