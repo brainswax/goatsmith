@@ -3,4 +3,4 @@ layout: page
 title: Kidding
 ---
 
-# Kidding Index
+* [Kidding Schedule](kidding/KiddingSchedule.md)

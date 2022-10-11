@@ -2,6 +2,9 @@
 layout: page
 title: Home
 ---
+
 # Goating
-* [Kidding Schedule](KiddingSchedule.md)
-* DRAFT [Goat Pattern Genetics](genetics.md)
+
+* [Genetics](/genetics/index.md)
+* [Breeding](/breeding/index.md)
+* [Kidding](/kidding/index.md)
