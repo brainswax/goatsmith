@@ -2,7 +2,7 @@
 layout: page
 title: Genetics
 ---
-# Goat Pattern Genetics
+## Goat Pattern Genetics
 
 1. The base pattern is dictated by the Agouti locus
    - Controls the distribution of black-based (or dark) and tan-based (or light) areas
@@ -58,7 +58,7 @@ Patterns and colors can inherit independent modifiers from each parent:
 * Moon spots (incomplete dominant)
 * Roaning (dominant) - it's believed to be a partial dominant trait, but locus is unknown
 
-# Terminology
+## Terminology
 
 - _Allele_ - a variation of a gene
 - _Codominant_ - when two dominant alleles can express together
@@ -83,7 +83,7 @@ Patterns and colors can inherit independent modifiers from each parent:
 - _Recessive_ - an allele is recessive if the gene must be homozygous in order to express the trait
 - _Wild Type_ - a wild type allele is considered the non-mutated, or wild, variation of a gene
 
-# Sources
+## Sources
 
 - [Nigerian Dwarf Color Genetics](http://www.nigeriandwarfcolors.com/nigerian-dwarf-color-genetics.html) - KW Farms
 - [Color Genetics in the Nigerian Dwarf Goat](http://www.hasitall.com/genetics/) - Cris Waller, Foxcroft Nigerian Dwarf Goats
