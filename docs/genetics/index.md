@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Genetics
+title: Goat Genetics
 ---
 ## Goat Pattern Genetics
 
