@@ -2,8 +2,6 @@
 layout: page
 title: Genetics
 ---
-# DRAFT
-
 # Goat Pattern Genetics
 
 1. The base pattern is dictated by the agouti locus
