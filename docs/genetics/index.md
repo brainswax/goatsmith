@@ -4,14 +4,14 @@ title: Genetics
 ---
 # Goat Pattern Genetics
 
-1. The base pattern is dictated by the agouti locus
+1. The base pattern is dictated by the Agouti locus
    - Controls the distribution of black-based (or dark) and tan-based (or light) areas
 1. Each animal inherits one, and only one, base pattern from each parent (making a pair of genes)
 1. Black is recessive
    - Both parents must carry black to produce a black kid
    - If the animal carries only one black pattern, then only the other pattern will be expressed
 1. Light areas are dominant over dark areas
-   - Patterns will only show dark where both inherited patterns are dark
+   - Codominant patterns will only show dark where both inherited patterns are dark
    - If the animal carries the gold pattern, then only gold will be expressed
 1. The light color can range from white, cream, gold, tan to red (i.e. a gold pattern goat could be colored white)
 1. Mutations can, although very rarely, cause patterns that neither parent carry
@@ -38,8 +38,6 @@ The pattern is determined by the Agouti locus, referred to by the 'A' symbol, wh
 | Caramel                 | Acr    | Codominant     |
 | Red Cheek               | Arc    | Codominant     |
 | Black                   | a (or Aa) | Recessive   |
-
-The light areas are believed to be polygenic and are dominant over black areas.
 
 ## Modifiers
 
@@ -79,11 +77,11 @@ Patterns and colors can inherit independent modifiers from each parent:
 - _Loci_ - plural of locus
 - _Mendelian Inheritance_ - usually refers to single-gene, single-trait inheritance
 - _Phenotype_ - a visible trait
-- _Pleiotropic_ - when a gene affects multiple phenotypes
-- _Polygenic_ - when multiple non-epistatic genes interact to produce a phenotype
+- _Pleiotropic_ - when a single gene affects multiple phenotypes
+- _Polygenic_ - when multiple genes interact to produce a phenotype
 - _Recessive_ - an allele is considered recessive if it can only be expressed when both alleles in a gene are the same
 - _Recessive_ - an allele is recessive if the gene must be homozygous in order to express the trait
-- _Wild Type_ - a wild type allele is considered the non-mutated variation of a gene
+- _Wild Type_ - a wild type allele is considered the non-mutated, or wild, variation of a gene
 
 # Sources
 
