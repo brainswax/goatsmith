@@ -55,11 +55,7 @@ Patterns and colors can inherit independent modifiers from each parent:
 
 * Blue eyes (dominant)
 * Polled (dominant)
-<<<<<<< HEAD
 * Moon spots (dominant)
-=======
-* Moon spots (dominant?)
->>>>>>> 43995930c32fb296337bea0f339b32f05c8d31b9
 * Roaning (dominant) - it's believed to be a partial dominant trait, but locus is unknown
 
 ## Terminology
@@ -83,8 +79,7 @@ Patterns and colors can inherit independent modifiers from each parent:
 - _Phenotype_ - a visible trait
 - _Pleiotropic_ - when a single gene affects multiple phenotypes
 - _Polygenic_ - when multiple genes interact to produce a phenotype
-- _Recessive_ - an allele is considered recessive if it can only be expressed when both alleles in a gene are the same
-- _Recessive_ - an allele is recessive if the gene must be homozygous in order to express the trait
+- _Recessive_ - an allele is considered recessive if it can only be expressed when both alleles in a gene are the same (homozygous)
 - _Wild Type_ - a wild type allele is considered the non-mutated, or wild, variation of a gene
 
 ## Sources
