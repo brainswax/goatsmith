@@ -55,7 +55,11 @@ Patterns and colors can inherit independent modifiers from each parent:
 
 * Blue eyes (dominant)
 * Polled (dominant)
+<<<<<<< HEAD
 * Moon spots (dominant)
+=======
+* Moon spots (dominant?)
+>>>>>>> 43995930c32fb296337bea0f339b32f05c8d31b9
 * Roaning (dominant) - it's believed to be a partial dominant trait, but locus is unknown
 
 ## Terminology
