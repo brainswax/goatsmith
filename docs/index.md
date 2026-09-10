@@ -1,10 +1,6 @@
 ---
-layout: page
-title: Home
+layout: teaser
+title: Goatsmith
+excerpt: Forging better goats.
+share: false
 ---
-
-# Goating
-
-* [Genetics](/genetics/)
-* [Breeding](/breeding/)
-* [Kidding](/kidding/)

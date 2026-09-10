@@ -18,6 +18,13 @@ kramdown:
 highlight-color: '#CC0000'
 lowlight-color: '#000'
 
+# Root teaser (docs/index.md). Other pages keep the existing nav.
+teaser:
+  # YouTube video id only (the value after v=). Empty keeps a 16:9 slot.
+  youtube_id: ""
+  signup_url: https://tinyurl.com/goatsmith-signup
+  signup_label: Sign up
+
 permalink:   /:categories/:title/
 
 sass:
