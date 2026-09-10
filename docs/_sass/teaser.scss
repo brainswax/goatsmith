@@ -14,8 +14,13 @@ body.teaser {
 	align-items: center;
 	justify-content: center;
 	gap: 2.5rem;
+	width: 100%;
+	max-width: none;
 	min-height: 100vh;
+	margin: 0;
 	padding: 3rem 1.25rem;
+	float: none;
+	border: 0;
 }
 
 .teaser-brand {
