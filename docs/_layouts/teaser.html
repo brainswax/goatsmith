@@ -7,34 +7,36 @@
 {% include _browser-upgrade.html %}
 
 <main class="teaser-main">
-  <h1 class="teaser-brand">
-    <img
-      class="teaser-logo"
-      src="/assets/images/goatsmith-logo.jpg"
-      alt="Goatsmith. Forging better goats."
-      width="715"
-      height="240"
-    />
-  </h1>
+  <div class="teaser-stack">
+    <h1 class="teaser-brand">
+      <img
+        class="teaser-logo"
+        src="/assets/images/goatsmith-logo.jpg"
+        alt="Goatsmith. Forging better goats."
+        width="715"
+        height="240"
+      />
+    </h1>
 
-  <div class="teaser-video">
-    {% if site.teaser.youtube_id and site.teaser.youtube_id != "" %}
-    <iframe
-      src="https://www.youtube-nocookie.com/embed/{{ site.teaser.youtube_id }}"
-      title="Goatsmith"
-      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-      allowfullscreen
-    ></iframe>
-    {% else %}
-    <div class="teaser-video-slot" role="img" aria-label="Video"></div>
+    <div class="teaser-video">
+      {% if site.teaser.youtube_id and site.teaser.youtube_id != "" %}
+      <iframe
+        src="https://www.youtube-nocookie.com/embed/{{ site.teaser.youtube_id }}"
+        title="Goatsmith"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        allowfullscreen
+      ></iframe>
+      {% else %}
+      <div class="teaser-video-slot" role="img" aria-label="Video"></div>
+      {% endif %}
+    </div>
+
+    {% if site.teaser.signup_url and site.teaser.signup_url != "" %}
+    <p class="teaser-cta">
+      <a class="teaser-signup" href="{{ site.teaser.signup_url }}">{{ site.teaser.signup_label | default: "Sign up" }}</a>
+    </p>
     {% endif %}
   </div>
-
-  {% if site.teaser.signup_url and site.teaser.signup_url != "" %}
-  <p class="teaser-cta">
-    <a class="teaser-signup" href="{{ site.teaser.signup_url }}">{{ site.teaser.signup_label | default: "Sign up" }}</a>
-  </p>
-  {% endif %}
 </main>
 
 </body>
